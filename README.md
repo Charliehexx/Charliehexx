@@ -37,6 +37,8 @@
 
 ![Aditya Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31srb2ycnbpsqqhngzwjjcy2hv3e&unique={true|1|on|yes})
 
+[![Aditya Medium](https://github-readme-medium.vercel.app/?username=CHARLIEHEXX)](https://medium.com/@CHARLIEHEXX)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charliehexx&show_icons=true&locale=en&layout=compact" alt="charliehexx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charliehexx&show_icons=true&locale=en" alt="charliehexx" /></p>
