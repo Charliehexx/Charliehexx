@@ -1,4 +1,5 @@
 [![MasterHead](https://cdn.dribbble.com/users/2526351/screenshots/5089880/blockchain.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&color=0EF759&background=00000022&center=true&width=500&lines=Hello+Me+Aditya+aka+Charliehexx;Currently+working+on+the+Ethereum+and+ICP+Blockchain+;Loves+to+share+knowledge+about+web3.0.)](https://git.io/typing-svg)
 
 <h1 align="center">Ello Stalkers I'm Aditya Patel</h1>
 <h3 align="center" style="padding:30px" color="blue">Full Stack Web3.0 developer(Blockchain developer)</h3>
