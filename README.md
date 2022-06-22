@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2526351/screenshots/5089880/blockchain.gif)
+<a href="https://app.daily.dev/Charliehexx"><img src="https://api.daily.dev/devcards/5cf47f407f484ec4bc6a372e599dfa5b.png?r=oqb" display="block" margin="0 auto" width="400" alt="Aditya Patel's Dev Card"/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&color=0EF759&background=0000000&center=true&width=500&lines=Hello+Me+Aditya+aka+Charliehexx;Currently+working+on+the+Ethereum+and+ICP+Blockchain+;Loves+to+share+knowledge+about+web3.0.)](https://git.io/typing-svg)
 
 <h1 align="center">Ello Stalkers I'm Aditya Patel</h1>
