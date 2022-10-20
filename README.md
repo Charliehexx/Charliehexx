@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/Charliehexx"><img src="https://api.daily.dev/devcards/5cf47f407f484ec4bc6a372e599dfa5b.png?r=oqb" display="block" margin="0 auto" width="400" alt="Aditya Patel's Dev Card"/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&color=0EF759&background=0000000&center=true&width=500&lines=Hello+Me+Aditya+aka+Charliehexx;Currently+working+on+the+Ethereum+and+ICP+Blockchain+;Loves+to+share+knowledge+about+web3.0.)](https://git.io/typing-svg)
 
-<h1 align="center">Ello Stalkers I'm Aditya Patel</h1>
+<h1 align="center">Ello Stalkers I'm Tushar Tripathi</h1>
 <h3 align="center" style="padding:30px" color="blue">Full Stack Web3.0 developer(Blockchain developer)</h3>
 <img align="right" width="330px" alt="coding" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
