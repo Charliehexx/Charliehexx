@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=16&color=0EF759&background=0000000&center=true&width=500&lines=Hello+Me+Aditya+aka+Charliehexx;Currently+working+on+the+Ethereum+and+ICP+Blockchain+;Loves+to+share+knowledge+about+web3.0.)](https://git.io/typing-svg)
 
 <h1 align="center">Aditya Patel</h1>
-<h3 align="center" style="padding:30px" color="blue">Full Stack Web3.0 developer(Blockchain developer)</h3>
+<h3 align="center" style="padding:30px" color="blue">Full Stack Web3.0 developer</h3>
 <img align="right" width="330px" alt="coding" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charliehexx&label=Profile%20views&color=0e75b6&style=flat" alt="charliehexx" /> </p>
